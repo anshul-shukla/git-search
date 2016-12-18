@@ -1,0 +1,23 @@
+.App-header {
+    background-color: #3F51B5;
+    height: 40px;
+    padding: 10px 20px;
+    color: white;
+}
+.logo {
+  display: inline-block;
+  height: 40px;
+  line-height: 40px;
+  color: #fff;
+}
+.App-intro {
+    width: 600px;
+    margin: 30px auto;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+a {
+  float: right;
+}
